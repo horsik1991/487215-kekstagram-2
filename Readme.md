@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Ольга Арбузова](https://up.htmlacademy.ru/javascript-individual/2/user/487215).
-* Наставник: [Дмитрий Атаманов].
+* Наставник: [Дмитрий Атаманов](https://htmlacademy.ru/profile/bellavin).
 
 ---
 
